@@ -1,17 +1,9 @@
-// import React, {useState} from 'react'
-// import './index.css'
+import React from 'react'
 
-// const Lists = () => {
-//     const [Data, setData] = useState [""]
-    
-//   return (
-//     <>
-//     <div className='list'>
-//         <h1>fgh</h1>
+const Lists = () => {
+  return (
+    <div>Lists</div>
+  )
+}
 
-//     </div>
-//     </>
-//   )
-// }
-
-// export default Lists
+export default Lists
